@@ -1,2 +1,5 @@
-# B-test
-Listopro test
+#Run Project
+```bash
+npm install
+npm run dev
+```

@@ -1,0 +1,6 @@
+export const TOP20DATA = 'TOP20DATA'
+export const TOP20LOADING = 'TOP20LOADING'
+export const TOP20ERROR = 'TOP20ERROR'
+export const COMMITS = 'COMMITS'
+export const COMMITSLOADING = 'COMMITSLOADING'
+export const COMMITSERROR = 'COMMITSERROR'
